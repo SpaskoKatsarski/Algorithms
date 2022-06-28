@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinsSum", "CoinsSum\CoinsS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeAlgurithmExample", "MergeAlgurithmExample\MergeAlgurithmExample.csproj", "{614BA14A-0D7F-4D21-85B5-1BA3F63F2276}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{8277286D-2EF3-4159-8252-B9B650CCBED4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{614BA14A-0D7F-4D21-85B5-1BA3F63F2276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{614BA14A-0D7F-4D21-85B5-1BA3F63F2276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{614BA14A-0D7F-4D21-85B5-1BA3F63F2276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8277286D-2EF3-4159-8252-B9B650CCBED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8277286D-2EF3-4159-8252-B9B650CCBED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8277286D-2EF3-4159-8252-B9B650CCBED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8277286D-2EF3-4159-8252-B9B650CCBED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
